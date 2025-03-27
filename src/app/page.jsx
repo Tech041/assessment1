@@ -231,7 +231,7 @@ const Dashboard = () => {
               src1={"/images/background_1.png"}
               src2={"/images/image_1.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Davina,23"}
               text2={"Abuja"}
               text3={"85% Match"}
@@ -247,7 +247,7 @@ const Dashboard = () => {
               src1={"/images/background_2.png"}
               src2={"/images/image_2.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite_red.png"}
+              src4={"/icons/Favorite_red.png"}
               text1={"Emily,31"}
               text2={"Abuja"}
               text3={"80% Match"}
@@ -262,7 +262,7 @@ const Dashboard = () => {
               src1={"/images/background_3.png"}
               src2={"/images/image_3.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"John,28"}
               text2={"Delta"}
               text3={"72% Match"}
@@ -278,7 +278,7 @@ const Dashboard = () => {
               src1={"/images/background_4.png"}
               src2={"/images/image_4.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Mad,26"}
               text2={"Abuja"}
               text3={"77% Match"}
@@ -293,7 +293,7 @@ const Dashboard = () => {
               src1={"/images/background_5.png"}
               src2={"/images/image_5.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Love,26"}
               text2={"Lagos"}
               text3={"80% Match"}
@@ -308,7 +308,7 @@ const Dashboard = () => {
               src1={"/images/background_6.png"}
               src2={"/images/image_6.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Karem,23"}
               text2={"Abuja"}
               text3={"85% Match"}
@@ -323,7 +323,7 @@ const Dashboard = () => {
               src1={"/images/background_7.png"}
               src2={"/images/image_7.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Sharon,26"}
               text2={"Lagos"}
               text3={"80% Match"}
@@ -338,7 +338,7 @@ const Dashboard = () => {
               src1={"/images/background_8.png"}
               src2={"/images/image_8.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Kevin,30"}
               text2={"PH"}
               text3={"80% Match"}
@@ -351,7 +351,7 @@ const Dashboard = () => {
               src1={"/images/background_9.png"}
               src2={"/images/image_9.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Love,26"}
               text2={"Lagos"}
               text3={"80% Match"}
@@ -366,7 +366,7 @@ const Dashboard = () => {
               src1={"/images/background_10.png"}
               src2={"/images/image_10.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Lily,25"}
               text2={"Lagos"}
               text3={"89% Match"}
@@ -381,7 +381,7 @@ const Dashboard = () => {
               src1={"/images/background_11.png"}
               src2={"/images/image_11.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Davon,34"}
               text2={"Lagos"}
               text3={"80% Match"}
@@ -396,7 +396,7 @@ const Dashboard = () => {
               src1={"/images/background_12.png"}
               src2={"/images/image_12.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite_red.png"}
+              src4={"/icons/Favorite_red.png"}
               text1={"Vivian,31"}
               text3={"71% Match"}
               text5={
@@ -410,7 +410,7 @@ const Dashboard = () => {
               src1={"/images/background_13.png"}
               src2={"/images/image_13.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Davina,21"}
               text2={"Ibadan"}
               text3={"80% Match"}
@@ -425,7 +425,7 @@ const Dashboard = () => {
               src1={"/images/background_14.png"}
               src2={"/images/image_14.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Jack,30"}
               text2={"Lagos"}
               text3={"87% Match"}
@@ -440,7 +440,7 @@ const Dashboard = () => {
               src1={"/images/background_15.png"}
               src2={"/images/image_15.png"}
               src3={"/icons/ig.png"}
-              src4={"/icons/favorite.png"}
+              src4={"/icons/Favorite.png"}
               text1={"Dave,26"}
               text2={"Lagos"}
               text3={"80% Match"}

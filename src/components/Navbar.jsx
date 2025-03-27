@@ -33,7 +33,7 @@ const Navbar = () => {
               <div className="flex items-center justify-start gap-4 border bg-[#E3EBF14D] border-[#3E7BEA] py-2 px-5 rounded-full w-[202px] h-full">
                 <span className="">
                   <Image
-                    src="/icons/search.png"
+                    src="/icons/Search.png"
                     width={15}
                     height={15}
                     alt="search_icon"
@@ -49,7 +49,7 @@ const Navbar = () => {
               <div className="w-[85px] h-full flex items-center justify-center gap-2  border  border-primary-200/60 rounded-full">
                 <span className="">
                   <Image
-                    src="/icons/filter.png"
+                    src="/icons/Filter.png"
                     width={15}
                     height={15}
                     alt="filter_icon"
@@ -63,7 +63,7 @@ const Navbar = () => {
             <div className="flex-1 flex justify-end items-center gap-5">
               <div className="sm:flex justify-center items-center min-w-[25px] min-h-[25px] hidden">
                 <Image
-                  src="/icons/alarm.png"
+                  src="/icons/Alarm.png"
                   width={25}
                   height={25}
                   alt="Alarm"
