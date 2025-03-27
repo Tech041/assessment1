@@ -47,7 +47,10 @@ const UserCard = ({
             {text5 === "NO bio available" && <div className="h-[30px] "></div>}
             <div className="flex justify-between items-center pt-2 ">
               <button className={className}>More Info</button>
-              <span onClick={() => setToggle((prev) => !prev)} className="">
+              <span
+                onClick={() => setToggle((prev) => !prev)}
+                className="cursor-pointer"
+              >
                 {toggle ? (
                   <Image
                     src={"/icons/Favorite.png"}
