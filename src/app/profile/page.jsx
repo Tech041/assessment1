@@ -129,7 +129,7 @@ const Profile = () => {
                 <div className={wrapperDiv}>
                   <div className={divStyle}>
                     <Image
-                      src={"/icons/agree.png"}
+                      src={"/icons/Agree.png"}
                       width={20}
                       height={20}
                       alt="male_user"
