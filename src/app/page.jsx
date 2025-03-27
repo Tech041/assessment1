@@ -23,7 +23,7 @@ const Dashboard = () => {
             className="flex-1 hidden md:block cursor-pointer "
           >
             <Image
-              src="/icons/menu.png"
+              src="/icons/Menu.png"
               width={16}
               height={16}
               alt="menu_icon"

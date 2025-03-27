@@ -22,7 +22,7 @@ const Profile = () => {
               className="flex-1 hidden  cursor-pointer md:flex justify-start items-center pl-4  "
             >
               <Image
-                src="/icons/menu.png"
+                src="/icons/Menu.png"
                 width={16}
                 height={16}
                 alt="menu_icon"

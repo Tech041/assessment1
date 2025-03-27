@@ -75,7 +75,7 @@ const Navbar = () => {
                 className="md:hidden cursor-pointer z-50 "
               >
                 <Image
-                  src="/icons/menu.png"
+                  src="/icons/Menu.png"
                   width={16}
                   height={16}
                   alt="menu_icon"
