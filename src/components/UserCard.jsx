@@ -1,11 +1,10 @@
 import Image from "next/image";
-import React from "react";
+import React, { useState } from "react";
 
 const UserCard = ({
   src1,
   src2,
   src3,
-  src4,
   text1,
   text2,
   text3,
@@ -13,6 +12,7 @@ const UserCard = ({
   text5,
   className,
 }) => {
+  const [toggle, setToggle] = useState(false);
   return (
     <div className="w-[100%] h-[240px]  rounded-lg relative shadow-lg mb-5">
       <div className="w-full h-full">
@@ -47,7 +47,23 @@ const UserCard = ({
             {text5 === "NO bio available" && <div className="h-[30px] "></div>}
             <div className="flex justify-between items-center pt-2 ">
               <button className={className}>More Info</button>
-              <Image src={src4} width={20} height={20} alt=" love" />
+              <span onClick={() => setToggle((prev) => !prev)} className="">
+                {toggle ? (
+                  <Image
+                    src={"/icons/Favorite.png"}
+                    width={20}
+                    height={20}
+                    alt=" love"
+                  />
+                ) : (
+                  <Image
+                    src={"/icons/Favorite_red.png"}
+                    width={20}
+                    height={20}
+                    alt=" love"
+                  />
+                )}
+              </span>
             </div>
           </div>
         </div>
