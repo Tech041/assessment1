@@ -40,9 +40,11 @@ const Profile = () => {
                   </Link>
                 </div>
                 <div className="flex justify-end   ">
-                  <button className="w-[109px] h-[28px] text-[8px] md:text-[12px]  text-white flex items-center justify-center  rounded-[5px] px-[10px] bg-primary-200/60">
-                    Update Cover
-                  </button>
+                  <Link href={"/"}>
+                    <button className="w-[109px] h-[28px] text-[8px] md:text-[12px] cursor-pointer text-white flex items-center justify-center  rounded-[5px] px-[10px] bg-primary-200/60">
+                      Update Cover
+                    </button>
+                  </Link>
                 </div>
               </div>
               <div className="w-full flex justify-center items-center ">
